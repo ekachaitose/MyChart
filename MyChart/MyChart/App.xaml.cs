@@ -13,7 +13,7 @@ namespace MyChart
         {
             InitializeComponent();
 
-            MainPage = new MyChart.MainPage();
+            MainPage = new MyChart.ChartPage();
         }
 
         protected override void OnStart()
